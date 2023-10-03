@@ -8,6 +8,8 @@ git clone https://github.com/wasimmoulik008/File
 
 ls
 
+cd File
+
 python wasim-fire.py
 
 <h3 align="left">Connect with me:</h3>
