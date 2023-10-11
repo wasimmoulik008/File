@@ -24,7 +24,7 @@ ls
 
 cd File
 
-python wasim-fire.py
+python wasim-fire1.py
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
