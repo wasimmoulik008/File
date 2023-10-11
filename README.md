@@ -12,6 +12,20 @@ cd File
 
 python wasim-fire.py
 
+
+<h1 align="center">💠𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍 𝟏.1 𝐕💠</h1>
+rm -rf File
+
+ls
+
+git clone https://github.com/wasimmoulik008/File
+
+ls
+
+cd File
+
+python wasim-fire.py
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100086012142332&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasim360" height="30" width="40" /></a>
