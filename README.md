@@ -1,4 +1,4 @@
-<h1 align="center">𝐅𝐈𝐋𝐄 𝐂𝐋𝐎𝐍𝐄 𝐓𝐎𝐎𝐋</h1>
+<h1 align="center">𝐅𝐈𝐋𝐄 𝐂𝐋𝐎𝐍𝐄 𝐓𝐎𝐎𝐋[Command off😑]</h1>
 <h1 align="center">💠𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍 𝟏.𝟎 𝐕💠</h1>
 rm -rf File
 
